@@ -6,10 +6,7 @@
     </enabled-run-configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a46bee81-e8b9-411a-97fd-1ed7bd5bca3f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20190809.py" beforeDir="false" afterPath="$PROJECT_DIR$/20190809.py" afterDir="false" />
-    </list>
+    <list default="true" id="a46bee81-e8b9-411a-97fd-1ed7bd5bca3f" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
