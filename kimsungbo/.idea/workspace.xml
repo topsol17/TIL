@@ -6,7 +6,9 @@
     </enabled-run-configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a46bee81-e8b9-411a-97fd-1ed7bd5bca3f" name="Default Changelist" comment="" />
+    <list default="true" id="a46bee81-e8b9-411a-97fd-1ed7bd5bca3f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +37,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python tests.pytest for 20190812.test_multiplication_table">
     <configuration name="pytest for 20190809.test_simple" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="kimsungbo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -51,8 +53,24 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="pytest for 20190812.test_multiplication_table" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="kimsungbo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;20190812.test_multiplication_table&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.pytest for 20190812.test_multiplication_table" />
         <item itemvalue="Python tests.pytest for 20190809.test_simple" />
       </list>
     </recent_temporary>
@@ -83,7 +101,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
