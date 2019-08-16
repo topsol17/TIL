@@ -11,7 +11,7 @@ if score >= 50:
 ```
 ## import
 ```
-from 클래쓰이름 import 함수명
+from 모듈이름 import 함수명
 ```
 ex) scores클래쓰에서 total_scores함수 호출
 ```
