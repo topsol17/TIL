@@ -99,7 +99,7 @@ def test_average():
 
 
 
-### 구구단 프로그램 테스트 코드
+### 구구단 프로그램 테스트 코드.
 
 def multiply(a,b):
     return a * b
