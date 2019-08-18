@@ -1,11 +1,5 @@
-def grade(scores, subject):
-    if scores[subject] >= 80:
-        return 'A'
-    elif scores[subject] >= 60:
-        return 'B'
-    elif scores[subject] >= 40:
-        return 'C'
-    elif scores[subject] >= 20:
-        return 'D'
-    else:
-        return 'F'
+def grade(scores, subject, grades):
+    for [i, j] in [[80, 'A'], [60, 'B'], [40, 'C'], [20, 'D'], [0, 'F']]:
+        if scores[subject] >= i:
+            grades.append(j)
+            return grades

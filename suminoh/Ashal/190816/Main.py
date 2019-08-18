@@ -1,11 +1,18 @@
 from scores import grade
+import pandas as pd
 
 
 def main():
     score = {'국어': 45, '과학': 70, '수학': 80}
-    print('국어 : ', grade(score, '국어'))
-    print('과학 : ', grade(score, '과학'))
-    print('수학 : ', grade(score, '수학'))
+    subject = []
+    scores = []
+    grades = []
+    for i in score.keys():
+        grade(score, i, grades)
+        subject.append(i)
+        scores.append(score[i])
+    score_table = pd.DataFrame({'과목': subject, '점수': scores, '등급': grades})
+    print(score_table)
 
 
 main()
