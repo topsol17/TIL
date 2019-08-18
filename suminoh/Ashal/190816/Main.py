@@ -8,7 +8,7 @@ def main():
     scores = []
     grades = []
     for i in score.keys():
-        grade(score, i, grades)
+        grades.append(grade(score, i))
         subject.append(i)
         scores.append(score[i])
     score_table = pd.DataFrame({'과목': subject, '점수': scores, '등급': grades})
