@@ -29,13 +29,13 @@ fetch를 전에 하는거 아닌가요? 그래도 되지만 그러면 나중에 
 
 ### 첫번째 시도
 ```python
-def a:
+def a():
     pass
 ```
 설명
 ### 두번째 시도
 ```python
-def a:
+def b():
     print(a)
 ```
 설명
