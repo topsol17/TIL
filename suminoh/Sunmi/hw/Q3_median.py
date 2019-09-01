@@ -7,3 +7,4 @@ def median(x):
         a = len(x) // 2
         med = (x[a - 1] + x[a]) / 2
     return med
+    
